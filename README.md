@@ -14,7 +14,3 @@ const nary = {
 
 I truly believe that technology and design have the power to make a positive impact on our world.
 
-<h3 align="center">Let's talk! </h3>
-<br/>
-You can open an issue or message me on my [LinkedIn profile](https://www.linkedin.com/in/narylozano/)
-
